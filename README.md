@@ -45,4 +45,4 @@ Small, practical applications applying the concepts learned in the previous stag
 You can clone this repository to your local machine using the following command:
 
 ```bash
-git clone [https://github.com/your-username/coding-fundamentals.git](https://github.com/your-username/coding-fundamentals.git)
+git clone [https://github.com/rahul-error/coding-fundamentals.git](https://github.com/rahul-error/coding-fundamentals.git)
